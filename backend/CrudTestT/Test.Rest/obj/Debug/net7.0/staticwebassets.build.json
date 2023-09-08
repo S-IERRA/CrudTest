@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "+ZI7kI6Ag+BNs2NZdT0NzhidUjdSxTWmTBAayCggkoY=",
+  "Source": "Test.Rest",
+  "BasePath": "_content/Test.Rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\some1\\OneDrive\\Pulpit\\CrudTest\\backend\\CrudTest\\Test.Logic\\Test.Logic.csproj",
+      "Version": 2,
+      "Source": "Test.Logic",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
